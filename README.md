@@ -1,13 +1,5 @@
 # 🗃️ SQL Practice Project
 
-<p align="center">
-  <b>Complete SQL Practice Project from Basic to Advanced Concepts</b>
-</p>
-
-<p align="center">
-  💻 MySQL &nbsp; | &nbsp; 📊 Data Analysis &nbsp; | &nbsp; 🧮 SQL Queries &nbsp; | &nbsp;
-</p>
-
 ---
 
 ## 📌 Project Overview
