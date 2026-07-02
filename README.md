@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 MySQL &nbsp; | &nbsp; 📊 Data Analysis &nbsp; | &nbsp; 🧮 SQL Queries &nbsp; | &nbsp; 🎯 Interview Preparation
+  💻 MySQL &nbsp; | &nbsp; 📊 Data Analysis &nbsp; | &nbsp; 🧮 SQL Queries &nbsp; | &nbsp;
 </p>
 
 ---
