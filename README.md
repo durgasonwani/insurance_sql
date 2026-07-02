@@ -1,6 +1,5 @@
 # 🗃️ SQL Practice Project
 
----
 
 ## 📌 Project Overview
 
